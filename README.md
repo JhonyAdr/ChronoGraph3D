@@ -73,6 +73,12 @@ El ejecutable se genera en la carpeta de salida de CMake.
 4. Activa **Animar Tiempo (T)** para ver evolucion temporal.
 5. En 3D, arrastra con clic izquierdo para rotar y usa la rueda para zoom.
 
+## Captura del programa
+
+> Reemplaza `assets/captura.svg` por tu imagen final (puede ser `.png` o `.jpg`).
+
+![Captura de ChronoGraph 3D](assets/captura.svg)
+
 ## Arquitectura
 
 - `main.cpp`: punto de entrada y creacion de la ventana principal.
