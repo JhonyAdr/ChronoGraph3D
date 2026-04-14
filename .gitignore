@@ -1,0 +1,23 @@
+.idea/
+cmake-build-debug/
+
+# Directorios de build de CMake/CLion
+cmake-build-*/
+build/
+out/
+
+# Archivos temporales y de sistema
+*.log
+*.tmp
+*.user
+*.cache
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.exe
+
+# Archivos de editor/sistema operativo
+.DS_Store
+Thumbs.db
