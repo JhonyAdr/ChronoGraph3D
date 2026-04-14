@@ -75,9 +75,7 @@ El ejecutable se genera en la carpeta de salida de CMake.
 
 ## Captura del programa
 
-> Reemplaza `assets/captura.svg` por tu imagen final (puede ser `.png` o `.jpg`).
-
-![Captura de ChronoGraph 3D](assets/captura.svg)
+![Captura de ChronoGraph 3D](assets/captura.png)
 
 ## Arquitectura
 
